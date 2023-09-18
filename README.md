@@ -51,8 +51,8 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><a href="https://github.com/0xNoushad#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xNoushad&theme=nightowl#gh-dark-mode-only" alt="0xNoushad" /></a>
+<a href="https://github.com/0xNoushad#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xNoushad&theme=vue#gh-light-mode-only" alt="0xNoushad" /></a></p>
 <br/>
 
 ---
