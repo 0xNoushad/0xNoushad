@@ -1,5 +1,6 @@
-# 💫 About Me: <a href "https://final-port-mu.vercel.app/">MY PORTFOLIO</a>
+# 💫 About Me:[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://final-port-mu.vercel.app/)
 🔭 I’m currently working on With Indian Upcoming Artist Dhanji For his Website <br>🌱 I’m currently learning Node js and Web3<br> 
+ 
 
 
 ## 🌐 Socials:
